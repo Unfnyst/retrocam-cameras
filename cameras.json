@@ -1,4 +1,19 @@
 {
   "format": 1,
-  "cameras": []
+  "cameras": [
+    {
+      "id": "custom_muyg47h9",
+      "name": "RE:DEFINED",
+      "color": 0,
+      "base": "mono400",
+      "stock": "ccd",
+      "lens": 4,
+      "frame": -1,
+      "ratio": -1,
+      "grain": 1,
+      "leak": 0,
+      "stamp": true,
+      "deployedAt": 1791400992239
+    }
+  ]
 }
