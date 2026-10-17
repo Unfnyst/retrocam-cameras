@@ -28,6 +28,20 @@
       "leak": 0,
       "stamp": true,
       "deployedAt": 1791403551954
+    },
+    {
+      "id": "custom_mvc493a8",
+      "name": "RE:DESIGNED",
+      "color": 0,
+      "base": "super8",
+      "stock": "",
+      "lens": 3,
+      "frame": -1,
+      "ratio": -1,
+      "grain": 1,
+      "leak": 0,
+      "stamp": true,
+      "deployedAt": 1792224668147
     }
   ]
 }
