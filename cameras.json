@@ -32,16 +32,16 @@
     {
       "id": "custom_mvc493a8",
       "name": "RE:DESIGNED",
-      "color": 0,
+      "color": 3,
       "base": "super8",
-      "stock": "",
+      "stock": "pastel",
       "lens": 3,
-      "frame": -1,
+      "frame": 2,
       "ratio": -1,
-      "grain": 1,
-      "leak": 0,
+      "grain": 1.6399999856948853,
+      "leak": 0.6700000166893005,
       "stamp": true,
-      "deployedAt": 1792225179557
+      "deployedAt": 1792225299003
     }
   ]
 }
